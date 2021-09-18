@@ -1,0 +1,37 @@
+#main {
+width:700px;
+position:absolute;
+top:4px;
+}
+#main2 {
+width:700px;
+position:absolute;
+right:-60px;
+top:4px;
+}
+#main3 {
+width:700px;
+position:absolute;
+top:378px;
+left:-300px;
+  transform: rotate(90deg);
+}
+#main4 {
+width:700px;
+position:absolute;
+bottom:-150px;
+right:580px;
+}
+#main5 {
+width:700px;
+position:absolute;
+right:-120px;
+bottom:-150px;
+}
+#main6 {
+width:700px;
+position:absolute;
+top:378px;
+right:-320px;
+  transform: rotate(90deg);
+}
